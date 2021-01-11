@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.container {
+    position: relative;
+    margin: auto;
+    width: 1000px;
+    text-align: center;
+
+}
+#tribute-info {
+    margin-top: 20px;
+}
+
+#image-caption {
+    width: 343px;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
